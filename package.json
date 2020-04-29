@@ -1,0 +1,17 @@
+{
+  "name": "frontend-practice",
+  "author": {
+    "name": "Shengyou Fan",
+    "email": "shengyou.fan@jetbrains.com"
+  },
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "build": "echo \"BUILD PROJECT...\"",
+    "test": "npm run build && echo \"TEST PROJECT\""
+  }
+}
